@@ -1,4 +1,4 @@
-## Maison Boutique – React + Vite Storefront (Current Status)
+## NAN Boutique – React + Vite Storefront (Current Status)
 
 Maison is a boutique fashion storefront built with **React**, **Vite**, **React Router**, **Tailwind CSS**, and **Supabase** (for data).  
 This README describes **how the site looks right now** and **what features are already implemented.**
@@ -28,7 +28,7 @@ Open `http://localhost:5173/` in your browser.
 
 - **Navbar**
   - Fixed at the top with scroll shadow.
-  - Brand: `MAISON` centered.
+  - Brand: `NAN` centered.
   - Left: search icon (opens a search bar overlay – UI only for now).
   - Right: profile icon (non-functional placeholder) and **cart icon with badge** showing total items.
   - Bottom menu:
@@ -164,3 +164,4 @@ Open `http://localhost:5173/` in your browser.
 - Admin product management (creating/updating products and collections via UI).
 
 This README describes the **current state** of the Maison website so you know exactly what is built and what can be added next.
+
